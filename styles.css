@@ -1,11 +1,18 @@
 body {
     background-color:blanchedalmond;
     font-family: cursive, fantasy, sans-serif;
-    text-align: center;
+    margin: 48px 72px;
+}
+
+ol li {
+    padding: 15px;
+    text-align: left;
 }
 
 ul li {
     font-weight: 500;
+    margin-bottom: 12px;
+    list-style-type: none;
 }
 
 img {
