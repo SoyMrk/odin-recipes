@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+    margin: auto;
+}
+
+p {
+    padding: 2px;
+}
+
+.card {
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
